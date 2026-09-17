@@ -1,2 +1,14 @@
 
-/* Your CSS Code here. */
+/* Your CSS Code here. */.nav{
+    display: flex;
+    justify-content: space-between;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+#image img{
+  margin-top: 50px;
+  width: 200px;
+  height: 100px;
+}
